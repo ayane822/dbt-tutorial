@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-church-project",
+  "private_key_id": "93d38bf79e39288107805c3be93587aadf841165",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9yUU9v6MIBECQ\nX6FCTGKhv6p3B4GyVrKcu2nZIcJUGMV992zii8ZX+TrMW5UUwzFFEwQWg7IN47Ah\n0VG+bNRX0yD0ZIMeFu9d4rrJkMKYyEdcj1XTOnteBsnerLaaoLL0bJF7OWRGdTPW\nFdOLA73vckyc1Xgq6KxzDlhguH8jblfd6UUgpTex2I/dUXQ7LMOlKHjHW0uBiojA\nyirH7jA7hR4AAPX3jIHW3mcHjhXYxMD1OkAKbDplKtetWAVPOhgSucz8g+rGWIP6\nvxofR9fgWxH3poNJ4gbOp6Yl3+W2DFkAFTx4UC36pFMy7slWvd+9FoxBIbjBwJ3y\n+VMsoz2DAgMBAAECggEAXS4hyeR6NihoTro1IakBUCsbld9gpV/9yAgYOxxhHgsf\ng+5kToKT+oOKg+V/N7dyTFi+zBMS69DbnG76NIWYaBpn9rYWzkIyeiUk0mw5ruu+\nZcqWN+Rhx9OLb8Ha0eaOloVrlFWkTxeiQL1spLdMnPDAfswseNzONptXdv1+prTf\nlWTljWtLHttLQwGKLWsrHJgFt1bmkiy/ypSAhhdVGBnaQw+qQdkf/Uz5ebE8dwZy\nqQVt9UUei29PIlqlUVAldc4FOpmeOkLOeMDkF+ao+VHhbxezGX9iiCLK/9kDz2di\nAg9jdbOp4+cKKnV3ywnWCeLye6zPI5vS6k85Xg6GYQKBgQD3joKJ/C0QgLVFEHYM\nwE2TPjo5Cr3CgRsKXMWuctm6+A6+BcTnbI+9xDSrqg4Xz6uzL2tXldS2bCyCcA+q\nLXFACChvsmsc0iMGreOStqzx5Q3GcW1839Dw6U7DLCirxWMWbF4kA+Mj6DJd28JS\nzOuJyvdzlLxEM20drX3kgRtLsQKBgQDEQlmCMustMpEPYeoGn8DI9cudM27n4mAP\nMfK4F9HlkR8MCtz661rzQ7Q8T4gTCYtJ2DvNR7gtJPu8GugTPe/m1PTeqCt2cmoi\n6mpGzr7+5mUNtuN08gPQkC8FZ2Wd0PiN3ndxhXuL3pzG58ba5CgsHYmVnAEv+NNN\nTeP6BFxNcwKBgQCj34OMQhG2xey47j+nCzmPCfdSwUiCVCKJRoZZh4+YFBL2OS1y\nIMw6S4KuTGEN5Bv9/prpHLb1l0ATjIjiFzjLsVrLLel356bmCgAGo8RyUDVBMt7O\ndf6DK35G9plps713H39mCei3YULOHOZTF3GoAmKx8Th7USufJLScqdZe0QKBgDKY\n6HqopfkBEGTm2W7bwNgOhnAA0pb1xc4lEm5jtbl5sIdqRY5rHweYbN8fofVGgKKJ\nHOHPm6wH3N6iETLkxPS98mN097+Rv8tApCWdJ6CPxX3DqOB9hH5Ard62yXvmZC4v\nLJwXzcJBoimll57XM4QsGUx469VyUQedDSln9mQBAoGANHZ3gg/E0y/ZyJAUCNgW\nm/3V0IcxBYXlbHM82xNm2cBuVmXELBv/eDDTsXxnr4FvkHffBLWxq75UPURjOAnB\n1UOuaPaEmpv78fkKxr7FWwXAgyGE00DD1ULnWWwt0xUrASfozS3PHHvJF5o27otS\nS/pnJGEBrqd1ne7B/DiDmBE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-learn-admin@dbt-church-project.iam.gserviceaccount.com",
+  "client_id": "109531795215904596248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-learn-admin%40dbt-church-project.iam.gserviceaccount.com"
+}
